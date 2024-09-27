@@ -24,8 +24,8 @@ Un elemento que se usa para modificar la letra, tamaño, color etc
 |Google Docs |![tick](https://github.com/AlexandraRivass/SMX2-M8UF1A2-Alexandra-Rivas/blob/main/imagen1.png)|
 |Google Slides |![tick](https://github.com/AlexandraRivass/SMX2-M8UF1A2-Alexandra-Rivas/blob/main/imagen1.png)|
 |Google Sheets |![tick](https://github.com/AlexandraRivass/SMX2-M8UF1A2-Alexandra-Rivas/blob/main/imagen1.png)|
-|Google Calendar |![tick]https://github.com/AlexandraRivass/SMX2-M8UF1A2-Alexandra-Rivas/blob/main/imagen2.png)|
-|Google Meet |![tick]https://github.com/AlexandraRivass/SMX2-M8UF1A2-Alexandra-Rivas/blob/main/imagen3.png)|
+|Google Calendar |![tick](https://github.com/AlexandraRivass/SMX2-M8UF1A2-Alexandra-Rivas/blob/main/imagen2.png)|
+|Google Meet |![tick](https://github.com/AlexandraRivass/SMX2-M8UF1A2-Alexandra-Rivas/blob/main/imagen3.png)|
 |... |...|
 
 6. Què és HTML?
