@@ -2,13 +2,21 @@
 Practica 1
 # Evaluación inicial
 1. ¿Qué es una página web?
+
 Muestra una pantalla y que incluiye textos, contenidos audiovisuales y enlaces con otras páginas.
+
 2. ¿Qué es un sitio web?
+
 Conjunto de páginas web que están conectadas entre sí
+
 3. ¿Qué es una aplicación web?
-Una pagina web donde encuentras imágenes, enlaces, tablas etc 
+
+Una pagina web donde encuentras imágenes, enlaces, tablas etc
+ 
 4. ¿Qué es una herramienta ofimática?
-Un elemento que se usa para modificar la letra, tamaño, color etc 
+
+Un elemento que se usa para modificar la letra, tamaño, color etc
+ 
 5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/ "Texto opcional")
 
 |Aplicaciones |Visto |
@@ -21,3 +29,6 @@ Un elemento que se usa para modificar la letra, tamaño, color etc
 |... |...|
 
 6. Què és HTML?
+
+Creación de paginas web
+
