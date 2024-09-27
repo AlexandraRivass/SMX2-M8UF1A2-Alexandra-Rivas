@@ -32,7 +32,8 @@ Un elemento que se usa para modificar la letra, tamaño, color etc
 
 Creación de paginas web
 
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset=UTF-8">
@@ -45,6 +46,6 @@ Creación de paginas web
 </body>
 </html>
 ´´´
+7. Qué es CSS?
 
-
-
+Se presentan los documentos a los usuarios: cómo se diseñan, compaginan, etc
