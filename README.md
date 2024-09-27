@@ -21,8 +21,8 @@ Un elemento que se usa para modificar la letra, tamaño, color etc
 
 |Aplicaciones |Visto |
 |-------------|:-------------:|
-|Google Docs ||
-|Google Slides ||
+|Google Docs |https://github.com/AlexandraRivass/SMX2-M8UF1A2-Alexandra-Rivas/blob/main/imagen1.png|
+|Google Slides |https://github.com/AlexandraRivass/SMX2-M8UF1A2-Alexandra-Rivas/blob/main/imagen1.png|
 |Google Sheets ||
 |Google Calendar ||
 |Google Meet ||
