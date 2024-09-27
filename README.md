@@ -44,8 +44,8 @@ Creación de paginas web
 <body>
 
 </body>
-</html>
-´´´
+</html>´´´
+
 7. Qué es CSS?
 
 Se presentan los documentos a los usuarios: cómo se diseñan, compaginan, etc
