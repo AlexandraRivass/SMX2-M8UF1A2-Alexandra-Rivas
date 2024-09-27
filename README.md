@@ -1,6 +1,6 @@
 # SMX2-M8UF1A2-Alexandra-Rivas
 Practica 1
-# Evaluación inicial
+# __Evaluación inicial__
 1. ¿Qué es una página web?
 
 Muestra una pantalla y que incluiye textos, contenidos audiovisuales y enlaces con otras páginas.
