@@ -10,6 +10,7 @@ Una pagina web donde encuentras imágenes, enlaces, tablas etc
 4. ¿Qué es una herramienta ofimática?
 Un elemento que se usa para modificar la letra, tamaño, color etc 
 5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/ "Texto opcional")
+
 |Aplicaciones |Visto |
 |-------------|:-------------:|
 |Google Docs ||
@@ -18,4 +19,5 @@ Un elemento que se usa para modificar la letra, tamaño, color etc
 |Google Calendar ||
 |Google Meet ||
 |... |...|
+
 6. Què és HTML?
