@@ -1,23 +1,23 @@
 # SMX2-M8UF1A2-Alexandra-Rivas
 Practica 1
 # __Evaluación inicial__
-1. ¿Qué es una página web?
+### 1. ¿Qué es una página web?
 
 Muestra una pantalla y que incluiye textos, contenidos audiovisuales y enlaces con otras páginas.
 
-2. ¿Qué es un sitio web?
+### 2. ¿Qué es un sitio web?
 
 Conjunto de páginas web que están conectadas entre sí
 
-3. ¿Qué es una aplicación web?
+### 3. ¿Qué es una aplicación web?
 
 Una pagina web donde encuentras imágenes, enlaces, tablas etc
  
-4. ¿Qué es una herramienta ofimática?
+### 4. ¿Qué es una herramienta ofimática?
 
 Un elemento que se usa para modificar la letra, tamaño, color etc
  
-5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/ "Texto opcional")
+### 5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/ "Texto opcional")
 
 |Aplicaciones |Visto |
 |-------------|:-------------:|
@@ -28,7 +28,7 @@ Un elemento que se usa para modificar la letra, tamaño, color etc
 |Google Meet |![tick](https://github.com/AlexandraRivass/SMX2-M8UF1A2-Alexandra-Rivas/blob/main/imagen3.png)|
 |... |...|
 
-6. Què és HTML?
+### 6. Què és HTML?
 
 Creación de paginas web
 
@@ -47,6 +47,10 @@ Creación de paginas web
 </html>
 ```
 
-7. Qué es CSS?
+### 7. Qué es CSS?
 
 Se presentan los documentos a los usuarios: cómo se diseñan, compaginan, etc
+
+### 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+![tick](https://github.com/AlexandraRivass/SMX2-M8UF1A2-Alexandra-Rivas/blob/main/imagen4.png)|
