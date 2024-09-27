@@ -44,7 +44,8 @@ Creación de paginas web
 <body>
 
 </body>
-</html>´´´
+</html>
+```
 
 7. Qué es CSS?
 
