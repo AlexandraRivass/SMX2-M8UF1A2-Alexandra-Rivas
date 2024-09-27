@@ -53,4 +53,5 @@ Se presentan los documentos a los usuarios: cómo se diseñan, compaginan, etc
 
 ### 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-![tick](https://github.com/AlexandraRivass/SMX2-M8UF1A2-Alexandra-Rivas/blob/main/imagen4.png)|
+![tick](https://github.com/AlexandraRivass/SMX2-M8UF1A2-Alexandra-Rivas/blob/main/imagen4.png)
+
