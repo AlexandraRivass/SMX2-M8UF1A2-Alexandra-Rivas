@@ -32,9 +32,19 @@ Un elemento que se usa para modificar la letra, tamaño, color etc
 
 Creación de paginas web
 
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="en">
 <head>
-<meta
+	<meta charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content=IE=Edge">
+	<meta name="viewport="width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+
+</body>
+</html>
+´´´
+
 
 
